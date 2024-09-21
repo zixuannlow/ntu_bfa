@@ -1,0 +1,12 @@
+FLASK 
+install flask
+> pip install flask
+
+install everything in requirements.txt
+pip install -r  
+
+gunicorn 
+> 
+
+for python to understand javascript
+wsgi 
